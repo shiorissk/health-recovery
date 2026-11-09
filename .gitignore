@@ -1,0 +1,5 @@
+apple_health_export/
+export.zip
+.venv/
+.DS_Store
+.ipynb_checkpoints/
